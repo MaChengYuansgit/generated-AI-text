@@ -23,3 +23,4 @@ We compute a submission's efficiency score by:
 $$
 \text{Efficiency}=\frac{\text{AUC}}{\text{Benchmark}-\max\text{AUC}} + \frac {\text{RuntimeSeconds}}{ 3 2 4 0 0}
 $$
+
